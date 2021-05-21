@@ -1,0 +1,83 @@
+#mobile{
+    left:400px ;
+    position: absolute;
+    align-content: center;
+    top: 0px;
+}
+.bg{
+    position:absolute;
+    right: 230px;
+    top: 110px;
+    /* pacity: 0.5; */
+}
+.bg2{
+    position:absolute;
+ left: 226px;
+    top: 108px;
+    right: 20px;
+}
+.object1{
+    position:absolute;
+ left: 100px;
+    top: 20px;
+}
+.hunger{
+    position: absolute;
+    left: 9px;
+    top: 190px;
+}
+#hurry{
+    font-size: 20px;
+    top: 40px;
+
+}
+#wait{
+  font-size: 18px;
+}
+p{
+    /* position: absolute;
+    top: 30px; */
+        font-size: smaller;
+}
+.form{
+    position: absolute;
+    left: 80px;
+    top: 350px;
+    /* background-color: orangered;  */
+
+
+
+}
+button{
+    width: 200px;
+    height: 33px;
+    
+}  
+#start{
+    width: 200px;
+    height: 40px;
+    color:white;
+    font-weight: bolder;
+    background-color:orange;
+} 
+#avail{
+    color: black;
+    font-weight: lighter;
+    font-size: 8px;
+}
+#span2{
+    color: orangered;
+    font-weight: bolder;
+}
+#tiffin{
+    font-size: smaller;
+    width: 200px;
+    color: black;
+}
+
+#login{
+    width: 230px;
+}
+.bg .form{
+    font-weight: 20;
+}

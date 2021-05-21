@@ -1,0 +1,74 @@
+#mobile{
+    left:400px ;
+    position: absolute;
+    align-content: center;
+    top: 0px;
+}
+.bg{
+    position:absolute;
+    right: 230px;
+    top: 119px;
+    /* pacity: 0.5; */
+}
+.bg2{
+    position:absolute;
+ left: 226px;
+    top: 118px;
+    right: 20px;
+}
+.object1{
+    position:absolute;
+ left: 90px;
+    top: 60px;
+}
+
+
+.form{
+    position: absolute;
+    left: 60px;
+    top: 270px;
+}
+h3{
+    left: 6px;
+}
+.bg .form{
+    font-weight: 20;
+}
+#number{
+    font-size: 12px;}
+
+#Login{
+    width: 150px;
+    letter-spacing: 2px;
+    text-align: center;
+    font-size: 1.1rem;
+
+}
+.Login{
+    font-size: smaller;
+    top: 5px;
+
+}
+
+.form input{
+    width: 200px;
+}
+#auto{
+    font-size: 10px;
+}
+#change{
+    color: orangered;
+    font-size: 10px;
+}
+#resend{
+    font-size: smaller;
+    color: orangered;
+}
+button{
+    position: absolute;
+    top: 59x;
+    color: white;
+    background-color: orangered;
+    width: 200px;
+    
+}

@@ -1,0 +1,61 @@
+#mobile{
+    left:400px ;
+    position: absolute;
+    align-content: center;
+    top: 0px;
+}
+.bg{
+    position:absolute;
+    right: 230px;
+    top: 118px;
+    /* pacity: 0.5; */
+}
+.bg2{
+    position:absolute;
+ left: 226px;
+    top: 118px;
+    right: 20px;
+}
+.object1{
+    position:absolute;
+ left: 100px;
+    top: 20px;
+}
+.hunger{
+    position: absolute;
+    right:180px;
+    top: 180px;
+}
+p{
+    position: absolute;
+    top: 20px;
+        font-size: small;
+}
+.form{
+    position: absolute;
+    left: 60px;
+    top: 260px;
+    /* background-color: orangered; */
+
+
+}
+#login{
+    width: 165px;
+}
+#started{
+    width: 190px;
+    background-color: white;
+}
+.bg .form{
+    font-weight: 20;
+}
+p{
+    position: absolute;
+    top:210px;
+    text-align: center;
+    
+}
+button{
+    width: 180px;
+    background-color: white
+}

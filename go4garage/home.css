@@ -1,0 +1,19 @@
+#mobile{
+    left:400px ;
+    position: absolute;
+    top: 0px;
+
+}
+.bg{
+    position:absolute;
+    right: 230px;
+    top: 120px;
+    /* pacity: 0.5; */
+}
+.tiffinia{
+    position: absolute;
+    left: 300px;
+    top: 250px;
+    
+
+}
